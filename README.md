@@ -11,7 +11,7 @@
 
 >另外，后端的Debug模式已开启，关闭请将```./back_end/e_commerce/settings.py```中的```DEBUG=True```修改为```DEBUG=False```
 
-# 运行方式
+## 运行方式
 
 1. 后端
 
@@ -32,3 +32,7 @@
     $ npm run serve
     ```
     使用浏览器访问 [http://localhost:8080](http://localhost:8080)
+    
+## 备注
+
+本项目只是简单的Demo，部分核心功能未完成。
