@@ -1,4 +1,4 @@
-# db_exp3
+# django-vue-e_commerce
 
 ## 简述
 哈尔滨工业大学（深圳）数据库系统实验三
